@@ -132,5 +132,5 @@ plt.show()
 # Printing metrics for each epoch in a table
 metrics_df = pd.DataFrame(history.history)
 metrics_df.index += 1  # Starting indexing epochs from 1
-print("\nMetrics for each epoch:")
+print("\n Validation Loss Metrics for each epoch:")
 print(loss_list, val_loss_list)
