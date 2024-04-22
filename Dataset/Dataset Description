@@ -1,1 +1,10 @@
+Dataset
+The "Curated Hate Speech Dataset" comprises a total of 451,709 sentences, with 371,452 labeled as hate speech and 80,250 as non-hate speech. The data collection process involved sourcing content from diverse online platforms to compile a comprehensive set of hate speech sentences that include several forms of hateful text, including emojis, emoticons, and slang. The most prominent source is from the platform X, formerly known as Twitter.
+ClassLabel           Count
+HateSpeech          371,452
+Non-HateSpeech      80,250
+
+The dataset can be found publicly at https://data.mendeley.com/datasets/9sxpkmm8xn/1
+
+
 
